@@ -67,9 +67,11 @@ Real-world exposure to building modular and maintainable code
 
 # OUTPUT:
 
-(IMAGE)(https://github.com/user-attachments/assets/d19741e8-6b62-4803-add5-abe39a3ec157)
+(IMAGE)(https://github.com/user-attachments/assets/fbf94377-d9e7-4341-b10a-166251672c19)
 
+** DEMO VIDEO **
 
+https://github.com/user-attachments/assets/7bdf2e05-cd18-4663-9363-b1a2bd0ff250
 
 
 
