@@ -8,6 +8,11 @@
 
 "BATCH DURATION":19TH MAY  2025 TO 30TH JUNE 2025
 
+# DOCUMENTATION
+
+(https://github.com/user-attachments/files/21084012/flight.booking.fligt.finders.docx)
+
+
 # DESCRIPTION OF FLIGHT FINDERS
 
 Flight Finders is a console-based (or GUI-based, depending on your version) application developed as part of my internship project. The program is designed to simulate a basic flight booking system where users can search for available flights, filter based on preferences, and book tickets with ease.
@@ -71,7 +76,8 @@ Real-world exposure to building modular and maintainable code
 
 ** DEMO VIDEO **
 
-https://github.com/user-attachments/assets/7bdf2e05-cd18-4663-9363-b1a2bd0ff250
+(https://github.com/user-attachments/assets/7bdf2e05-cd18-4663-9363-b1a2bd0ff250)
+
 
 
 
